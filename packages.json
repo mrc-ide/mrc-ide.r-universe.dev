@@ -1,0 +1,117 @@
+[
+    {
+        "package": "provisionr",
+        "url": "https://github.com/mrc-ide/provisionr",
+        "branch": "master"
+    },
+    {
+        "package": "context",
+        "url": "https://github.com/mrc-ide/context",
+        "branch": "master"
+    },
+    {
+        "package": "queuer",
+        "url": "https://github.com/mrc-ide/queuer",
+        "branch": "master"
+    },
+    {
+        "package": "didehpc",
+        "url": "https://github.com/mrc-ide/didehpc",
+        "branch": "master"
+    },
+    {
+        "package": "heartbeatr",
+        "url": "https://github.com/mrc-ide/heartbeatr",
+        "branch": "master"
+    },
+    {
+        "package": "rrq",
+        "url": "https://github.com/mrc-ide/rrq",
+        "branch": "v0.1.2"
+    },
+    {
+        "package": "syncr",
+        "url": "https://github.com/mrc-ide/syncr",
+        "branch": "master"
+    },
+    {
+        "package": "buildr",
+        "url": "https://github.com/mrc-ide/buildr",
+        "branch": "master"
+    },
+    {
+        "package": "odin",
+        "url": "https://github.com/mrc-ide/odin",
+        "branch": "master"
+    },
+    {
+        "package": "dde",
+        "url": "https://github.com/mrc-ide/dde",
+        "branch": "master"
+    },
+    {
+        "package": "odin.ui",
+        "url": "https://github.com/mrc-ide/odin.ui",
+        "branch": "master"
+    },
+    {
+        "package": "odin.js",
+        "url": "https://github.com/mrc-ide/odin.js",
+        "branch": "master"
+    },
+    {
+        "package": "vaultr",
+        "url": "https://github.com/mrc-ide/vaultr",
+        "branch": "master"
+    },
+    {
+        "package": "nomad",
+        "url": "https://github.com/reconhub/nomad",
+        "branch": "master"
+    },
+    {
+        "package": "beers",
+        "url": "https://github.com/mrc-ide/beers",
+        "branch": "master"
+    },
+    {
+        "package": "specio",
+        "url": "https://github.com/mrc-ide/specio",
+        "branch": "master"
+    },
+    {
+        "package": "traduire",
+        "url": "https://github.com/reside-ic/traduire",
+        "branch": "master"
+    },
+    {
+        "package": "defer",
+        "url": "https://github.com/reside-ic/defer",
+        "branch": "master"
+    },
+    {
+        "package": "porcelain",
+        "url": "https://github.com/reside-ic/porcelain",
+        "branch": "master"
+    },
+    {
+        "package": "jsonvalidate",
+        "url": "https://github.com/ropensci/jsonvalidate",
+        "branch": "master"
+    },
+    {
+        "package": "dust",
+        "url": "https://github.com/mrc-ide/dust",
+        "branch": "master"
+    },
+    {
+        "package": "mcstate",
+        "url": "https://github.com/mrc-ide/mcstate",
+        "branch": "master"
+    },
+    {
+        "package": "odin.dust",
+        "url": "https://github.com/mrc-ide/odin.dust",
+        "branch": "master"
+    }
+]
