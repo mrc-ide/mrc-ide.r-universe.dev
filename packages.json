@@ -113,5 +113,10 @@
         "package": "odin.dust",
         "url": "https://github.com/mrc-ide/odin.dust",
         "branch": "master"
+    },
+    {
+        "package": "malariasimulation",
+        "url": "https://github.com/mrc-ide/malariasimulation",
+        "branch": "master"
     }
 ]
