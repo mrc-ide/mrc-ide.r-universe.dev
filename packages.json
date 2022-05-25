@@ -27,7 +27,7 @@
     {
         "package": "rrq",
         "url": "https://github.com/mrc-ide/rrq",
-        "branch": "v0.1.2"
+        "branch": "master"
     },
     {
         "package": "syncr",
