@@ -118,5 +118,10 @@
         "package": "malariasimulation",
         "url": "https://github.com/mrc-ide/malariasimulation",
         "branch": "master"
+    },
+    {
+        "package": "orderly",
+        "url": "https://github.com/vimc/orderly",
+        "branch": "master"
     }
 ]
