@@ -123,5 +123,10 @@
         "package": "orderly",
         "url": "https://github.com/vimc/orderly",
         "branch": "master"
+    },
+    {
+        "package": "mode",
+        "url": "https://github.com/mrc-ide/mode",
+        "branch": "main"
     }
 ]
