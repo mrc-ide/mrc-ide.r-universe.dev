@@ -1,4 +1,5 @@
-[{
+[
+    {
         "package": "provisionr",
         "url": "https://github.com/mrc-ide/provisionr",
         "branch": "master"
