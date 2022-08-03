@@ -1,5 +1,4 @@
-[
-    {
+[{
         "package": "provisionr",
         "url": "https://github.com/mrc-ide/provisionr",
         "branch": "master"
@@ -128,5 +127,75 @@
         "package": "mode",
         "url": "https://github.com/mrc-ide/mode",
         "branch": "main"
+    },
+    {
+        "package": "eppasm",
+        "url": "https://github.com/mrc-ide/eppasm",
+        "branch": "master"
+    },
+    {
+        "package": "naomi",
+        "url": "https://github.com/mrc-ide/naomi",
+        "branch": "master"
+    },
+    {
+        "package": "naomi.utils",
+        "url": "https://github.com/mrc-ide/naomi.utils",
+        "branch": "master"
+    },
+    {
+        "package": "orderly.sharepoint",
+        "url": "https://github.com/vimc/orderly.sharepoint",
+        "branch": "master"
+    },
+    {
+        "package": "spud",
+        "url": "https://github.com/reside-ic/spud",
+        "branch": "master"
+    },
+    {
+        "package": "first90",
+        "url": "https://github.com/mrc-ide/first90release",
+        "branch": "master"
+    },
+    {
+        "package": "montagu",
+        "url": "https://github.com/vimc/montagu-r",
+        "branch": "master"
+    },
+    {
+        "package": "orderlyweb",
+        "url": "https://github.com/vimc/orderlyweb",
+        "branch": "master"
+    },
+    {
+        "package": "vimpact",
+        "url": "https://github.com/vimc/vimpact",
+        "branch": "master"
+    },
+    {
+        "package": "jointlyr",
+        "url": "https://github.com/mrc-ide/jointlyr",
+        "branch": "master"
+    },
+    {
+        "package": "rincewind",
+        "url": "https://github.com/mrc-ide/rincewind",
+        "branch": "master"
+    },
+    {
+        "package": "weighter",
+        "url": "https://github.com/mrc-ide/weighter",
+        "branch": "master"
+    },
+    {
+        "package": "demogsurv",
+        "url": "https://github.com/mrc-ide/demogsurv",
+        "branch": "master"
+    },
+    {
+        "package": "threemc",
+        "url": "https://github.com/mrc-ide/threemc",
+        "branch": "master"
     }
 ]
