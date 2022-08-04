@@ -206,12 +206,12 @@
     },
     {
         "package": "dfertility",
-        "url": "https://github.com/osymandius/dfertility",
+        "url": "https://github.com/mrc-ide/dfertility",
         "branch": "master"
     },
     {
         "package": "jenner",
-        "url": "https://github.com/osymandius/moz.utils",
+        "url": "https://github.com/mrc-ide/moz.utils",
         "branch": "master"
     }
 ]
