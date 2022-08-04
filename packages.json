@@ -203,5 +203,15 @@
         "package": "jenner",
         "url": "https://github.com/vimc/jenner",
         "branch": "master"
+    },
+    {
+        "package": "dfertility",
+        "url": "https://github.com/osymandius/dfertility",
+        "branch": "master"
+    },
+    {
+        "package": "jenner",
+        "url": "https://github.com/osymandius/moz.utils",
+        "branch": "master"
     }
 ]
