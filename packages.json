@@ -198,5 +198,10 @@
         "package": "threemc",
         "url": "https://github.com/mrc-ide/threemc",
         "branch": "master"
+    },
+    {
+        "package": "jenner",
+        "url": "https://github.com/vimc/jenner",
+        "branch": "master"
     }
 ]
