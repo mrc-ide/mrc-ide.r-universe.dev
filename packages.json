@@ -210,8 +210,18 @@
         "branch": "master"
     },
     {
-        "package": "jenner",
+        "package": "moz.utils",
         "url": "https://github.com/mrc-ide/moz.utils",
+        "branch": "master"
+    },
+    {
+        "package": "assessr",
+        "url": "https://github.com/mrc-ide/assessr",
+        "branch": "master"
+    },
+    {
+        "package": "ascertainr",
+        "url": "https://github.com/mrc-ide/ascertainr",
         "branch": "master"
     }
 ]
