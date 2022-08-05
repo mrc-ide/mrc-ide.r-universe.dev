@@ -203,5 +203,10 @@
         "package": "jenner",
         "url": "https://github.com/vimc/jenner",
         "branch": "master"
+    },
+    {
+        "package": "outpack",
+        "url": "https://github.com/mrc-ide/outpack",
+        "branch": "outpack"
     }
 ]
