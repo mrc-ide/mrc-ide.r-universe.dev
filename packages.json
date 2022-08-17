@@ -227,6 +227,6 @@
     {
         "package": "outpack",
         "url": "https://github.com/mrc-ide/outpack",
-        "branch": "outpack"
+        "branch": "main"
     }
 ]
