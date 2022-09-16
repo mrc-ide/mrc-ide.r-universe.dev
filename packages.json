@@ -228,5 +228,10 @@
         "package": "outpack",
         "url": "https://github.com/mrc-ide/outpack",
         "branch": "main"
+    },
+    {
+        "package": "naomi.options",
+	"url": "https://github.com/mrc-ide/naomi.options",
+	"branch": "main"
     }
 ]
