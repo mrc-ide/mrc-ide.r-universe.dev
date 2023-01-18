@@ -233,5 +233,15 @@
         "package": "naomi.options",
 	"url": "https://github.com/mrc-ide/naomi.options",
 	"branch": "main"
+    },
+    {
+        "package": "testthat.buildkite",
+	"url": "https://github.com/mrc-ide/testthat.buildkite",
+	"branch": "main"
+    },
+    {
+        "package": "mockr",
+	"url": "https://github.com/mrc-ide/mockr",
+	"branch": "main"
     }
 ]
