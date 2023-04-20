@@ -248,5 +248,10 @@
 	"package": "cart",
 	"url": "https://github.com/mrc-ide/cart",
 	"branch": "main"
+    },
+    {
+	"package": "EpiEstim",
+	"url": "https://github.com/mrc-ide/EpiEstim",
+	"branch": "master"
     }
 ]
