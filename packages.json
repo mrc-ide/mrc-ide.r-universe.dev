@@ -208,5 +208,10 @@
         "package": "outpack",
         "url": "https://github.com/mrc-ide/outpack",
         "branch": "outpack"
+    },
+    {
+        "package": "EpiEstim",
+        "url": "https://github.com/mrc-ide/EpiEstim",
+        "branch": "master"
     }
 ]
