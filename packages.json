@@ -225,11 +225,6 @@
         "branch": "master"
     },
     {
-        "package": "outpack",
-        "url": "https://github.com/mrc-ide/outpack",
-        "branch": "main"
-    },
-    {
         "package": "naomi.options",
 	"url": "https://github.com/mrc-ide/naomi.options",
 	"branch": "main"
@@ -253,5 +248,10 @@
 	"package": "EpiEstim",
 	"url": "https://github.com/mrc-ide/EpiEstim",
 	"branch": "master"
+    },
+    {
+	"package": "orderly2",
+	"url": "https://github.com/mrc-ide/orderly2",
+	"branch": "main"
     }
 ]
