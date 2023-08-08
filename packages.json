@@ -253,5 +253,10 @@
 	"package": "orderly2",
 	"url": "https://github.com/mrc-ide/orderly2",
 	"branch": "main"
+    },
+    {
+	"package": "hintr",
+	"url": "https://github.com/mrc-ide/hintr",
+	"branch": "master"
     }
 ]
