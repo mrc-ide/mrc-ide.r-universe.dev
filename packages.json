@@ -258,5 +258,10 @@
 	"package": "hintr",
 	"url": "https://github.com/mrc-ide/hintr",
 	"branch": "master"
+    },
+    {
+	"package": "orderly.db",
+	"url": "https://github.com/mrc-ide/orderly.db",
+	"branch": "main"
     }
 ]
