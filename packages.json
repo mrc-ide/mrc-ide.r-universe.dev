@@ -263,5 +263,10 @@
 	"package": "orderly.db",
 	"url": "https://github.com/mrc-ide/orderly.db",
 	"branch": "main"
+    },
+    {
+	"package": "orderly.sharedfile",
+	"url": "https://github.com/mrc-ide/orderly.sharedfile",
+	"branch": "main"
     }
 ]
