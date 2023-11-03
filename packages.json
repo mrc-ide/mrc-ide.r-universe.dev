@@ -268,5 +268,10 @@
 	"package": "orderly.sharedfile",
 	"url": "https://github.com/mrc-ide/orderly.sharedfile",
 	"branch": "main"
+    },
+    {
+	"package": "naomi.resources",
+	"url": "https://github.com/mrc-ide/naomi.resources",
+	"branch": "main"
     }
 ]
