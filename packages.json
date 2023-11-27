@@ -273,5 +273,10 @@
 	"package": "naomi.resources",
 	"url": "https://github.com/mrc-ide/naomi.resources",
 	"branch": "main"
+    },
+    {
+	"package": "cinterpolate",
+	"url": "https://github.com/mrc-ide/cinterpolate",
+	"branch": "main"
     }
 ]
