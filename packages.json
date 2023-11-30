@@ -278,5 +278,15 @@
 	"package": "cinterpolate",
 	"url": "https://github.com/mrc-ide/cinterpolate",
 	"branch": "main"
+    },
+    {
+	"package": "hermod",
+	"url": "https://github.com/mrc-ide/hermod",
+	"branch": "main"
+    },
+    {
+	"package": "hermod.windows",
+	"url": "https://github.com/mrc-ide/hermod/drivers/windows",
+	"branch": "main"
     }
 ]
