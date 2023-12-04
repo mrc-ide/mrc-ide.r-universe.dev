@@ -286,7 +286,8 @@
     },
     {
 	"package": "hermod.windows",
-	"url": "https://github.com/mrc-ide/hermod/drivers/windows",
-	"branch": "main"
+	"url": "https://github.com/mrc-ide/hermod",
+	"branch": "main",
+        "subdir": "drivers/windows"
     }
 ]
