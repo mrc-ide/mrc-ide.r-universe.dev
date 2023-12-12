@@ -292,7 +292,7 @@
     },
     {
 	"package": "conan2",
-	"url": "https://github.com/mrc-ide/conan",
-	"branch": "main-v2"
+	"url": "https://github.com/mrc-ide/conan2",
+	"branch": "main"
     }
 ]
