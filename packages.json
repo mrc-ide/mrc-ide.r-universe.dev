@@ -289,5 +289,10 @@
 	"url": "https://github.com/mrc-ide/hermod",
 	"branch": "main",
         "subdir": "drivers/windows"
+    },
+    {
+	"package": "conan2",
+	"url": "https://github.com/mrc-ide/conan",
+	"branch": "main-v2"
     }
 ]
