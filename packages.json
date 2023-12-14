@@ -280,13 +280,13 @@
 	"branch": "main"
     },
     {
-	"package": "hermod",
-	"url": "https://github.com/mrc-ide/hermod",
+	"package": "hipercow",
+	"url": "https://github.com/mrc-ide/hipercow",
 	"branch": "main"
     },
     {
-	"package": "hermod.windows",
-	"url": "https://github.com/mrc-ide/hermod",
+	"package": "hipercow.windows",
+	"url": "https://github.com/mrc-ide/hipercow",
 	"branch": "main",
         "subdir": "drivers/windows"
     },
