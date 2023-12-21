@@ -294,5 +294,10 @@
 	"package": "conan2",
 	"url": "https://github.com/mrc-ide/conan2",
 	"branch": "main"
+    },
+    {
+	"package": "logwatch",
+	"url": "https://github.com/reside-ic/logwatch",
+	"branch": "main"
     }
 ]
