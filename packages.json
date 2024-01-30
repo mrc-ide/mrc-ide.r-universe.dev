@@ -299,5 +299,10 @@
 	"package": "logwatch",
 	"url": "https://github.com/reside-ic/logwatch",
 	"branch": "main"
+    },
+    {
+	"package": "duckdb",
+	"url": "https://github.com/reside-ic/logwatch",
+	"branch": "v0.9.1"
     }
 ]
