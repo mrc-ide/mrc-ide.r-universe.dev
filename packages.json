@@ -304,5 +304,10 @@
 	"package": "duckdb",
 	"url": "https://github.com/reside-ic/logwatch",
 	"branch": "v0.9.1"
+    },
+    {
+	"package": "vip",
+	"url": "https://github.com/mrc-ide/vip",
+	"branch": "main"
     }
 ]
