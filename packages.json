@@ -302,7 +302,7 @@
     },
     {
 	"package": "duckdb",
-	"url": "https://github.com/reside-ic/logwatch",
+	"url": "https://github.com/duckdb/duckdb-r",
 	"branch": "v0.9.1"
     },
     {
