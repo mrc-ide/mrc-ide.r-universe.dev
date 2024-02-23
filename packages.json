@@ -309,5 +309,10 @@
 	"package": "vip",
 	"url": "https://github.com/mrc-ide/vip",
 	"branch": "main"
+    },
+    {
+        "package": "dqrng",
+        "url": "https://github.com/daqana/dqrng",
+        "branch": "master"
     }
 ]
