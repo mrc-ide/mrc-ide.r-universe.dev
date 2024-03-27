@@ -306,8 +306,8 @@
 	"branch": "v0.9.1"
     },
     {
-	"package": "vip",
-	"url": "https://github.com/mrc-ide/vip",
+	"package": "popim",
+	"url": "https://github.com/mrc-ide/popim",
 	"branch": "main"
     },
     {
