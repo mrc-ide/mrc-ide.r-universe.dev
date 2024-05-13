@@ -277,7 +277,7 @@
     {
 	"package": "cinterpolate",
 	"url": "https://github.com/mrc-ide/cinterpolate",
-	"branch": "main"
+	"branch": "master"
     },
     {
 	"package": "hipercow",
@@ -313,6 +313,6 @@
     {
         "package": "dqrng",
         "url": "https://github.com/daqana/dqrng",
-        "branch": "master"
+        "branch": "main"
     }
 ]
