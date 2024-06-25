@@ -314,5 +314,10 @@
         "package": "dqrng",
         "url": "https://github.com/daqana/dqrng",
         "branch": "main"
+    },
+    {
+        "package": "drjacoby",
+        "url": "https://github.com/mrc-ide/drjacoby",
+        "branch": "master"
     }
 ]
