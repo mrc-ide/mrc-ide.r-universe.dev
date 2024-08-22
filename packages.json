@@ -319,5 +319,20 @@
         "package": "drjacoby",
         "url": "https://github.com/mrc-ide/drjacoby",
         "branch": "master"
+    },
+    {
+        "package": "monty",
+        "url": "https://github.com/mrc-ide/monty",
+        "branch": "main"
+    },
+    {
+        "package": "dust2",
+        "url": "https://github.com/mrc-ide/dust2",
+        "branch": "main"
+    },
+    {
+        "package": "odin2",
+        "url": "https://github.com/mrc-ide/odin2",
+        "branch": "main"
     }
 ]
