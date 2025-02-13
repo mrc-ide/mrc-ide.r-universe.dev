@@ -250,6 +250,11 @@
 	"branch": "master"
     },
     {
+	"package": "epireview",
+	"url": "https://github.com/mrc-ide/epireview",
+	"branch": "main"
+    },
+    {
 	"package": "orderly2",
 	"url": "https://github.com/mrc-ide/orderly2",
 	"branch": "main"
