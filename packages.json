@@ -290,10 +290,10 @@
 	"branch": "main"
     },
     {
-	"package": "hipercow.windows",
+	"package": "hipercow.dide",
 	"url": "https://github.com/mrc-ide/hipercow",
 	"branch": "main",
-        "subdir": "drivers/windows"
+        "subdir": "drivers/dide"
     },
     {
 	"package": "conan2",
