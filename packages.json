@@ -326,6 +326,26 @@
         "branch": "master"
     },
     {
+        "package": "individual",
+        "url": "https://github.com/mrc-ide/individual",
+        "branch": "master"
+    },
+    {
+        "package": "malariaEquilibriumVivax",
+        "url": "https://github.com/mrc-ide/malariaEquilibriumVivax",
+        "branch": "master"
+    },
+    {
+        "package": "mpoxseir",
+        "url": "https://github.com/mrc-ide/mpoxseir",
+        "branch": "main"
+    },
+    {
+        "package": "gonovax",
+        "url": "https://github.com/mrc-ide/gonovax",
+        "branch": "master"
+    },
+    {
         "package": "monty",
         "url": "https://github.com/mrc-ide/monty",
         "branch": "main"
