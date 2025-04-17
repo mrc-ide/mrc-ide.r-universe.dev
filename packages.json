@@ -359,5 +359,10 @@
         "package": "odin2",
         "url": "https://github.com/mrc-ide/odin2",
         "branch": "main"
+    },
+    {
+        "package": "frogger",
+        "url": "https://github.com/mrc-ide/frogger",
+        "branch": "main"
     }
 ]
