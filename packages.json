@@ -359,5 +359,6 @@
         "package": "frogger",
         "url": "https://github.com/mrc-ide/frogger",
         "branch": "main"
+        "subdir": "r-package"
     }
 ]
