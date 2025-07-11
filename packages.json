@@ -242,7 +242,7 @@
     {
 	"package": "EpiEstim",
 	"url": "https://github.com/mrc-ide/EpiEstim",
-	"branch": "master"
+	"branch": "main"
     },
     {
 	"package": "epireview",
