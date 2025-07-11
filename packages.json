@@ -120,8 +120,8 @@
         "branch": "master"
     },
     {
-        "package": "orderly",
-        "url": "https://github.com/vimc/orderly",
+        "package": "orderly1",
+        "url": "https://github.com/vimc/orderly1",
         "branch": "master"
     },
     {
@@ -142,11 +142,6 @@
     {
         "package": "naomi.utils",
         "url": "https://github.com/mrc-ide/naomi.utils",
-        "branch": "master"
-    },
-    {
-        "package": "orderly.sharepoint",
-        "url": "https://github.com/vimc/orderly.sharepoint",
         "branch": "master"
     },
     {
