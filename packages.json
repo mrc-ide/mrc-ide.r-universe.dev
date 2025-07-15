@@ -1,25 +1,5 @@
 [
     {
-        "package": "provisionr",
-        "url": "https://github.com/mrc-ide/provisionr",
-        "branch": "master"
-    },
-    {
-        "package": "context",
-        "url": "https://github.com/mrc-ide/context",
-        "branch": "master"
-    },
-    {
-        "package": "queuer",
-        "url": "https://github.com/mrc-ide/queuer",
-        "branch": "master"
-    },
-    {
-        "package": "didehpc",
-        "url": "https://github.com/mrc-ide/didehpc",
-        "branch": "master"
-    },
-    {
         "package": "heartbeatr",
         "url": "https://github.com/mrc-ide/heartbeatr",
         "branch": "master"
@@ -142,11 +122,6 @@
     {
         "package": "naomi.utils",
         "url": "https://github.com/mrc-ide/naomi.utils",
-        "branch": "master"
-    },
-    {
-        "package": "spud",
-        "url": "https://github.com/reside-ic/spud",
         "branch": "master"
     },
     {
