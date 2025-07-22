@@ -266,6 +266,11 @@
         "subdir": "drivers/dide"
     },
     {
+	"package": "conan",
+	"url": "https://github.com/mrc-ide/conan",
+	"branch": "main"
+    },
+    {
 	"package": "conan2",
 	"url": "https://github.com/mrc-ide/conan2",
 	"branch": "main"
