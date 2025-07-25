@@ -306,6 +306,11 @@
         "branch": "master"
     },
     {
+        "package": "malariaEquilibrium",
+        "url": "https://github.com/mrc-ide/malariaEquilibrium",
+        "branch": "master"
+    },
+    {
         "package": "malariaEquilibriumVivax",
         "url": "https://github.com/mrc-ide/malariaEquilibriumVivax",
         "branch": "master"
