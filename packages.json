@@ -100,11 +100,6 @@
         "branch": "master"
     },
     {
-        "package": "orderly1",
-        "url": "https://github.com/vimc/orderly1",
-        "branch": "main"
-    },
-    {
         "package": "mode",
         "url": "https://github.com/mrc-ide/mode",
         "branch": "main"
@@ -132,11 +127,6 @@
     {
         "package": "montagu",
         "url": "https://github.com/vimc/montagu-r",
-        "branch": "master"
-    },
-    {
-        "package": "orderlyweb",
-        "url": "https://github.com/vimc/orderlyweb",
         "branch": "master"
     },
     {
@@ -225,9 +215,20 @@
 	"branch": "main"
     },
     {
-	"package": "orderly2",
-	"url": "https://github.com/mrc-ide/orderly2",
+	"package": "orderly",
+	"url": "https://github.com/mrc-ide/orderly",
 	"branch": "main"
+    },
+    {
+	"package": "orderly2",
+	"url": "https://github.com/mrc-ide/orderly",
+	"branch": "main",
+        "subdir": "inst/orderly2"
+    },
+    {
+        "package": "orderly1",
+        "url": "https://github.com/vimc/orderly1",
+        "branch": "main"
     },
     {
 	"package": "hintr",
