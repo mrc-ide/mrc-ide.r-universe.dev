@@ -342,9 +342,9 @@
         "branch": "main"
     },
     {
-        "package": "frogger",
-        "url": "https://github.com/mrc-ide/frogger",
+        "package": "leapfrog",
+        "url": "https://github.com/mrc-ide/leapfrog",
         "branch": "main",
-        "subdir": "r-package"
+        "subdir": "leapfrogr"
     }
 ]
