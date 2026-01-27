@@ -343,7 +343,7 @@
     },
     {
         "package": "leapfrog",
-        "url": "https://github.com/mrc-ide/leapfrog",
+        "url": "https://github.com/hivtools/leapfrog",
         "branch": "main",
         "subdir": "leapfrogr"
     }
