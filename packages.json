@@ -346,5 +346,15 @@
         "url": "https://github.com/hivtools/leapfrog",
         "branch": "main",
         "subdir": "leapfrogr"
+    },
+    {
+	"package": "anclik",
+	"url": "https://github.com/jeffeaton/anclik",
+	"branch": "master"
+    },
+    {
+	"package": "epp",
+	"url": "https://github.com/jeffeaton/epp",
+	"branch": "master"
     }
 ]
