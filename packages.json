@@ -115,6 +115,11 @@
         "branch": "master"
     },
     {
+        "package": "naomi.zaf",
+        "url": "https://github.com/mrc-ide/naomi.zaf",
+        "branch": "main-zaf"
+    },
+    {
         "package": "naomi.utils",
         "url": "https://github.com/mrc-ide/naomi.utils",
         "branch": "master"
